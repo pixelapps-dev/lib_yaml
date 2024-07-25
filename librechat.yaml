@@ -9,7 +9,7 @@ registration:
     - "deakin.edu.au"
 
 endpoints:
-
+  custom:
     - name: "Anthropic"
       apiKey: "${ANTHROPIC_API_KEY}"
       baseURL: "https://api.anthropic.com/v1"
